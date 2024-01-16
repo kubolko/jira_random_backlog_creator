@@ -1,15 +1,34 @@
-A new Flutter project.
+# Jira Backlog Creator
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Jira Backlog Creator is a powerful and user-friendly web tool designed to streamline the process of backlog creation and management in Jira. With features like bulk issue entry, customizable templates, and seamless integration with Jira, this tool is perfect for teams looking to optimize their workflow and save valuable time.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bulk Issue Entry: Quickly populate your Jira backlog with multiple issues at once.
+Customizable Templates: Tailor the tool to fit your team's specific needs.
+Seamless Jira Integration: Effortlessly sync with your existing Jira projects.
+Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 6a2c624 (initial commit)
+## To get started with Jira Backlog Creator, follow these simple steps:
+
+###### Clone the Repository:
+git clone https://github.com/yourusername/jira-backlog-creator.git
+###### Navigate to the Project Directory:
+cd jira-backlog-creator
+###### Run the App:
+###### Ensure you have Flutter installed and set up.
+###### Execute the following command to run the app in a local server:
+flutter run -d chrome
+
+
+Contributions to the Jira Backlog Creator are welcome! Please read our contributing guide to get started.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any queries or feedback, please reach out to us at jakub.sumionka@gmail.com

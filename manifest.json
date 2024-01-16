@@ -1,11 +1,11 @@
 {
-    "name": "jira_creator",
+    "name": "Jira Creator",
     "short_name": "jira_creator",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#90E0EF",
+    "theme_color": "#00B4D8",
+    "description": "Transform your Jira project management with the Jira Backlog Creator. Designed for efficiency and ease-of-use, our tool streamlines the process of backlog creation and management, enabling you to swiftly populate your Jira with detailed, structured information. Experience features like bulk issue entry, customizable templates, and seamless Jira integration, all tailored to enhance productivity and project clarity. Perfect for teams seeking to optimize their Jira workflow and save valuable time.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
